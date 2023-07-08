@@ -3,7 +3,7 @@
 
 ### Ari Holtzman, Peter West, and Luke Zettlemoyer
 
-[paper](How_can_we_make_make_sense_of_large_language_model_behavior?.pdf)
+[paper](How_can_we_make_make_sense_of_large_language_model_behavior.pdf)
 
 ### Abstract
 Coaxing out desired behavior from pretrained models, while avoiding undesirable ones, has redefined NLP and is reshaping how we interact with computers. What was once a scientific engineering discipline—in which building blocks are stacked one on top of the other—is arguably already a complex systems science—in which \textit{emergent behaviors} are sought out to support previously unimagined use cases. 
