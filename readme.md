@@ -18,6 +18,6 @@ We argue for a systematic effort to decompose language model behavior into categ
   title         = "Generative Models as a Complex Systems Science: How can we make sense of large language model behavior?",
   author        = "Holtzman, Ari and West, Peter and Zettlemoyer, Luke",
   year          =  2023,
-  jourlnal      =  {preprint}
+  journal      =  {preprint}
 }
 ```
